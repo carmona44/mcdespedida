@@ -80,7 +80,7 @@ class App extends Component {
           </div>
           <div className="carousel-item amber white-text" href="#ten!">
             <h2>McFamilia NC</h2>
-            <p className="white-text">...a veces dejamos de trabajar pa' el postureo...</p>
+            <p className="white-text">...a veces dejamos de trabajar pa el postureo...</p>
             <img alt="foto" src={foto10}/>
           </div>
           <div className="carousel-item green white-text" href="#eleven!">
